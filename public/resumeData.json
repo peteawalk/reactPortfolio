@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name":"Peter",
+    "occupation":"Full-Stack Developer",
+    "description":"",
+    "image":"profilepic.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "peteawalk@gmail.com",
+    "phone": "240-516-8548",
+    "address":{
+      "street":"Applewood St",
+      "city":"Lees Summit",
+      "state":"MO",
+      "zip": "64063"
+    },
+    "website": "https://peterwalker.dev",
+    "resumedownload":"https://www.peterwalker.dev/#contact",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"http://twitter.com/peteawalk",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/peteawalk/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/peteawalk",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "work":[
+      {
+        "company":"Federal Reserve Bank of Kansas City",
+        "title":"IS Technical Specialist",
+        "years":"Just 2017 - Present",
+        "description":"Application Support for the Do Not Pay Program."
+      },
+      {
+        "company":"Cerner Corporation",
+        "title":"Senior System Engineer",
+        "years":"August 2014 - July 2017",
+        "description":"Worked with RHEL, Java, Tomcat, Oracle, DICOM, network troubleshooting and more."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"75%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"60%%"
+      },
+      {
+        "name":"CSS3",
+        "level":"75%"
+      },
+      {
+        "name":"HTML5",
+        "level":"85%"
+      },
+      {
+        "name":"MySQL",
+        "level":"75%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"25%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      },
+      {
+        "title":"Fury Fighting Gear",
+        "category":"(offline now) A fighting gear company I started",
+        "image":"fury-fighting-gear.jpg",
+        "url":"http://www.timbakerdev.com"
+      },
+      {
+        "title":"Original Thai Food",
+        "category":"Website I built for a restaurant I like in Thailand",
+        "image":"original-thai-food.jpg",
+        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.jpg",
+        "url":"https://peterwalker.dev"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"He's interesting.",
+        "user":"Dos Equis Guy"
+      },
+      {
+        "text":"Peter likes breakfast foods and dark-haired women just like me.",
+        "user":"Ron Swanson"
+      }
+    ]
+  }
+}
