@@ -3,7 +3,7 @@
     "name":"Peter",
     "occupation":"Full-Stack Developer",
     "description":"",
-    "image":"profilepic.jpg",
+    "image":"profilepic.jpeg",
     "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "peteawalk@gmail.com",
@@ -15,7 +15,7 @@
       "zip": "64063"
     },
     "website": "https://peterwalker.dev",
-    "resumedownload":"https://www.peterwalker.dev/#contact",
+    "resumedownload":"https://www.peterwalker.dev/assets/documents/peterwalker_resume.pdf",
     "social":[
       {
         "name":"twitter",
@@ -52,12 +52,8 @@
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"75%"
-      },
-      {
         "name":"JavaScript",
-        "level":"60%"
+        "level":"65%"
       },
       {
         "name":"CSS3",
@@ -74,6 +70,14 @@
       {
         "name":"MongoDB",
         "level":"25%"
+      },
+      {
+        "name":"React",
+        "level":"25%"
+      },
+      {
+        "name":"Git",
+        "level":"75%"
       }
     ]
   },
@@ -82,25 +86,25 @@
       {
         "title":"Fresh Air",
         "category":"A travel site for new or busy travelers",
-        "image":"canadian-wanderlust.jpg",
-        "url":""
+        "image":"freshair.png",
+        "url":"https://whispering-shelf-78602.herokuapp.com/"
       },
       {
         "title":"Friend Finder",
         "category":"Find a friend or date",
-        "image":"fury-fighting-gear.jpg",
-        "url":""
+        "image":"friendfinder.jpeg",
+        "url":"https://peteawalk.github.io/FriendFinder/"
       },
       {
         "title":"Morganic",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "category":"MORganic is a nationwide Farmer's Market search utilizing the USDA API and Google Maps API",
+        "image":"morganic.png",
+        "url":"https://peteawalk.github.io/MORganic/"
       },
       {
         "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
+        "category":"My third attempt at my portfolio",
+        "image":"resume-website.png",
         "url":"https://peterwalker.dev"
       }
     ]
@@ -108,11 +112,11 @@
   "testimonials":{
     "testimonials":[
       {
-        "text":"He's interesting.",
+        "text":"He's an interesting man.",
         "user":"Dos Equis Guy"
       },
       {
-        "text":"Peter likes breakfast foods and dark-haired women just like me.",
+        "text":"Peter likes breakfast foods and wood working just like me.",
         "user":"Ron Swanson"
       }
     ]
