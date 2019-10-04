@@ -40,8 +40,8 @@
       {
         "company":"Federal Reserve Bank of Kansas City",
         "title":"IS Technical Specialist",
-        "years":"Just 2017 - Present",
-        "description":"Application Support for the Do Not Pay Program."
+        "years":"July 2017 - Present",
+        "description":"Application Support for the Do Not Pay Program. We help save the federal governmemnt money 💰"
       },
       {
         "company":"Cerner Corporation",
@@ -80,8 +80,8 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Fresh Air",
+        "category":"A travel site for new or busy travelers",
         "image":"canadian-wanderlust.jpg",
         "url":"https://www.canadianwanderlust.com"
       },
