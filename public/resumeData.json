@@ -57,7 +57,7 @@
       },
       {
         "name":"JavaScript",
-        "level":"60%%"
+        "level":"60%"
       },
       {
         "name":"CSS3",
@@ -83,16 +83,16 @@
         "title":"Fresh Air",
         "category":"A travel site for new or busy travelers",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Friend Finder",
+        "category":"Find a friend or date",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":""
       },
       {
-        "title":"Original Thai Food",
+        "title":"Morganic",
         "category":"Website I built for a restaurant I like in Thailand",
         "image":"original-thai-food.jpg",
         "url":"http://www.timbakerdev.com/originalthaifood.github.io"
