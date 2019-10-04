@@ -1,10 +1,10 @@
 {
   "main": {
-    "name":"Peter",
+    "name":"Peter Walker",
     "occupation":"Full-Stack Developer",
     "description":"",
     "image":"profilepic.jpeg",
-    "bio":"My name is Peter and I hail from Anchorage > Washington DC > Kansas City. I have a fascination with figuring out how things work and love working in the tech industry. In my current role I provide application and system support. I enjoy working on the command line and prefer RHEL, but have experience with other Unix flavors as well. I have many hobbies and interests which include: wood working, Linux automation, Raspberry Pi builds, DIY projects, power tools, home renovations, 3D-Printing, or mountain biking, photograpy, and more! 🥧 🚴 📷 🏠",
+    "bio":"Hi, I'm Peter and I hail from Anchorage > Washington DC > Kansas City. I am currently enrolled in the KU Coding Boot Camp in which I am learning Full-Stack Development, which has grown as even more of a passion. I have a fascination with figuring out how things work and love working in the tech industry. In my current role I provide application and system support. I enjoy working on the command line and prefer RHEL, but have experience with other Unix flavors as well. I have many hobbies and interests which include: wood working, Linux automation, Raspberry Pi builds, DIY projects, power tools, home renovations, 3D-Printing, or mountain biking, photograpy, and more! 🥧 🚴 📷 🏠",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "peteawalk@gmail.com",
     "phone": "240-516-8548",
@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"I belive in always learning. I am an avid learner and enjoy the discovery process.",
     "work":[
       {
         "company":"Federal Reserve Bank of Kansas City",
