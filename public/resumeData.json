@@ -47,7 +47,15 @@
         "company":"Cerner Corporation",
         "title":"Senior System Engineer",
         "years":"August 2014 - July 2017",
-        "description":"Worked with RHEL, Java, Tomcat, Oracle, DICOM, network troubleshooting and more."
+        "description":"Worked with Red Hat Enterprise Linux 5 and 6, confiure Java applications front and back-end, Tomcat, Oracle, DICOM, VERITAS (VCS), network troubleshooting and more."
+      }
+    ],
+    "education":[
+      {
+        "school":"KU Coding Boot Camp",
+        "degree":"Full-Stack Developer Certification",
+        "graduated":"November 2019",
+        "description":"Learned MVC paradigm, group projects with Github, Languages/Frameworks: JavaScript, HTML5, CSS3, node.JS, React, handfuls of npm packages and much more."
       }
     ],
     "skills":[
